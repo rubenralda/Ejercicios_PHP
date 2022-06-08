@@ -1,0 +1,105 @@
+body
+{
+   background-color: cadetblue; 
+}
+.form1
+{
+    position: relative;
+    width: 150px;
+    background-color: beige;
+}
+.mensaje1
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -220px;
+    background-color: azure;
+}
+.form2
+{
+    position: relative;
+    width: 150px;
+    top: -165px;
+    background-color: burlywood;
+}
+.mensaje2
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -285px;
+    background-color: chartreuse;
+    
+}
+.form3
+{
+    position: relative;
+    width: 150px;
+    top: -200px;
+    background-color: darkgrey;
+}
+.mensaje3
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -285px;
+    background-color: chartreuse;
+    
+}
+.form4
+{
+    position: relative;
+    width: 150px;
+    top: -250px;
+    background-color: darkgrey;
+}
+.mensaje4
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -385px;
+    background-color: chartreuse;
+    
+}
+.form5
+{
+    position: relative;
+    width: 150px;
+    top: -350px;
+    background-color: rgb(194, 165, 165);
+}
+.mensaje5
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -500px;
+    background-color: rgb(106, 108, 219);
+    
+}
+.form6
+{
+    position: relative;
+    width: 150px;
+    top: -400px;
+    background-color: rgb(194, 165, 165);
+}
+.mensaje6
+{
+    position: relative;
+    width: 250px;
+    left: 220px;
+    top: -600px;
+    background-color: rgb(106, 108, 219);
+    
+}
+
+h5
+{
+    position: relative;
+    left: 50px;
+    font-size: 30px;
+}
